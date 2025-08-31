@@ -25,10 +25,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAmoah&layout=compact&theme=radical)  
 
 ## 📫 How to Reach Me  
-- 📧 Email: your_email_here  
-- 💼 LinkedIn: your_linkedin_here  
-- 🌍 Portfolio (coming soon…)  
+- 📧 Email: amoahdavid00@gmail.com  
+- WhatsApp:+233 542632833
+    
 
----
 
 ✨ *“I believe technology should be inclusive, accessible, and transformative — a tool to solve real-world challenges.”*  
