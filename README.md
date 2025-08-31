@@ -20,11 +20,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
-## 📊 GitHub Stats  
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAmoah&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAmoah&layout=compact&theme=radical)  
 
-## 📫 How to Reach Me  
 - 📧 Email: amoahdavid00@gmail.com  
 - WhatsApp:+233 542632833
     
